@@ -1,0 +1,202 @@
+[
+    {
+        "title": "The report concerning the sales figures that you requested ______ on your desk.",
+        "options": [
+            "is",
+            "am",
+            "are",
+            "were"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "The ______ company owners always dress appropriately when they need to attend business events and meetings.",
+        "options": [
+            "succession",
+            "success",
+            "succeed",
+            "successful"
+        ],
+        "answer": 4
+    },
+    {
+        "title": "We need to ______ the data thoroughly before submitting the final report.",
+        "options": [
+            "analyze",
+            "analysis",
+            "analyst",
+            "analytical"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "Neither the manager nor the employees ______ happy with the new policy.",
+        "options": [
+            "is",
+            "are",
+            "was",
+            "be"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "The meeting was canceled ______ unforeseen circumstances.",
+        "options": [
+            "because",
+            "due to",
+            "as",
+            "despite"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "If she ______ the project earlier, we would have had more time to review it.",
+        "options": [
+            "completed",
+            "had completed",
+            "completes",
+            "will complete"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "The new software is designed to ______ efficiency and reduce costs.",
+        "options": [
+            "improving",
+            "improve",
+            "improvement",
+            "improved"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "The project team members were praised for their ______ performance.",
+        "options": [
+            "exception",
+            "exceptional",
+            "exceptions",
+            "exceptionally"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "John is one of the employees who ______ always on time for work.",
+        "options": [
+            "is",
+            "are",
+            "was",
+            "were"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "The CEO wants to know how the company can ______ its market share.",
+        "options": [
+            "expanding",
+            "expand",
+            "expansion",
+            "expanded"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "The proposal was rejected because it lacked ______ details.",
+        "options": [
+            "specific",
+            "specify",
+            "specification",
+            "specifically"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "The financial report will be sent ______ email tomorrow.",
+        "options": [
+            "by",
+            "through",
+            "in",
+            "on"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "The director insisted that the employees ______ on time for the meeting.",
+        "options": [
+            "be",
+            "is",
+            "are",
+            "were"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "The new policy will ______ in January of next year.",
+        "options": [
+            "take affect",
+            "take effect",
+            "have effect",
+            "affect"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "She has been working in the marketing department ______ five years.",
+        "options": [
+            "since",
+            "for",
+            "during",
+            "in"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "The team was unable to meet the deadline ______ unforeseen challenges.",
+        "options": [
+            "despite",
+            "because of",
+            "due",
+            "although"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "The budget proposal was well-prepared and ______ approved by the board.",
+        "options": [
+            "immediately",
+            "immediate",
+            "immediacy",
+            "immediateness"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "The results of the experiment were not ______ consistent with the initial hypothesis.",
+        "options": [
+            "complete",
+            "completely",
+            "completing",
+            "completion"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "The company plans to ______ its operations to several new markets.",
+        "options": [
+            "expand",
+            "expansion",
+            "expansive",
+            "expanding"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "The meeting has been scheduled ______ next Monday.",
+        "options": [
+            "on",
+            "at",
+            "for",
+            "in"
+        ],
+        "answer": 3
+    }
+]
