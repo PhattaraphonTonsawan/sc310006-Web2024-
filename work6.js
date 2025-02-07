@@ -1,19 +1,19 @@
 const RB=ReactBootstrap;
 const {Alert, Card, Button, Table} = ReactBootstrap;
 const firebaseConfig = {
-   apiKey: "AIzaSyAg-VXTppy0TXUlrgMZni0E2xIBxHJhzvY",
-    authDomain: "web2567-dc022.firebaseapp.com",
-    projectId: "web2567-dc022",
-    storageBucket: "web2567-dc022.firebasestorage.app",
-    messagingSenderId: "695791710227",
-    appId: "1:695791710227:web:12dee1290fe75cc15b0fe6",
-    measurementId: "G-FPRS7WVM0S"
+  apiKey: "AIzaSyAg-VXTppy0TXUlrgMZni0E2xIBxHJhzvY",
+  authDomain: "web2567-dc022.firebaseapp.com",
+  projectId: "web2567-dc022",
+  storageBucket: "web2567-dc022.firebasestorage.app",
+  messagingSenderId: "695791710227",
+  appId: "1:695791710227:web:12dee1290fe75cc15b0fe6",
+  measurementId: "G-FPRS7WVM0S"
 };
 
   firebase.initializeApp(firebaseConfig);      
 const db = firebase.firestore();
 const auth = firebase.auth();
-db.collection("653380338-5").get().then((querySnapshot) => {
+db.collection("students").get().then((querySnapshot) => {
   querySnapshot.forEach((doc) => {
       console.log(`${doc.id} =>`,doc.data());
   });
